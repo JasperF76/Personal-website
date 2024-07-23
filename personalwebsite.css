@@ -1,0 +1,10 @@
+h3 {background-color: black; color: black;}
+nav {position: fixed; background-color: rgb(194, 201, 236);}
+h1 {padding-top: 30px;
+    font-family: fantasy;;}
+h2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.home-image-caption {padding-top: 100px;}
+.home-center { display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
