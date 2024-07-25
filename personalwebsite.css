@@ -1,10 +1,67 @@
-h3 {background-color: black; color: black;}
-nav {position: fixed; background-color: rgb(194, 201, 236);}
-h1 {padding-top: 30px;
-    font-family: fantasy;;}
-h2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
-.home-image-caption {padding-top: 100px;}
-.home-center { display: block;
+h3 {
+    background-color: black;
+    color: black;
+}
+
+nav {
+    position: fixed;
+    background-color: rgb(194, 201, 236);
+}
+
+h1 {
+    padding-top: 30px;
+    font-family: fantasy;
+    ;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.image {
+    padding-top: 100px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;}
+    width: 50%;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2:hover {
+    background-color: skyblue;
+}
+
+p:hover {
+    background-color: plum;
+    box-shadow: 10px 10px;
+}
+
+h1:hover {
+    background-color: yellow;
+}
+
+.container {
+    padding-top: 50px;
+    display:
+}
+
+.contact {
+    padding: 5px;
+}
+
+ul:hover {
+    background-color: pink;
+    box-shadow: 10px 10px;
+}
+
+li:nth-child(odd) {
+    background-color: yellow;
+    border: 2px solid red;
+    margin-bottom: 1px;
+}
