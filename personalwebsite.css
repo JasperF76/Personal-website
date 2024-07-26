@@ -52,8 +52,10 @@ h1:hover {
     display: flex;
 }
 
-.contact-all {display: flex;
-    justify-content: space-around;
+.contact-all {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
 }
 
 .contact {
