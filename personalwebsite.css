@@ -11,8 +11,7 @@ nav {
 h1 {
     padding-top: 30px;
     font-family: fantasy;
-    color: black
-    ;
+    color: black;
 }
 
 h2 {
@@ -66,10 +65,15 @@ ul:hover {
 }
 
 li:nth-child(odd) {
-    background-color: yellow;
+    background-color: white;
     border: 2px solid red;
     margin-bottom: 1px;
 }
 
-body {background-size: 100%;}
-.indextext {color: darkgray;}
+body {
+    background-size: 100%;
+}
+
+.indextext {
+    color: darkgray;
+}
